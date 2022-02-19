@@ -1,0 +1,21 @@
+Name : Gokul Srinivasagan
+
+Python version - 3.8.5
+
+The structure of this project is:
+1) movies-pp.txt - dataset
+4) Assignment 6 - Latent Dirichlet Allocation.ipynb - implementation of LDA
+5) output - This folder contain the output files
+            - topic_words_output.txt - 10 most frequent words in topic for alpha = 0.02, beta = 0.1, 20 topics and 500 iterations
+            - topic_document_distribution_output.txt - Distribution of topic across documents for alpha = 0.02, beta = 0.1, 20 topics and 500 iterations
+
+            - topic_words_output_topic_10.txt - 5 most frequent words in topic for alpha = 0.02, beta = 0.1, 10 topics and 250 iterations
+            - topic_document_distribution_output_topic_10.txt - Distribution of topic across documents for alpha = 0.02, beta = 0.1, 10 topics and 250 iterations
+
+            - topic_words_output_news_data.txt - 5 most frequent words in topic for news dataset - alpha = 0.02, beta = 0.1, 3 topics and 200 iterations
+            - topic_document_distribution_output_news_data.txt - Distribution of topic across documents for news dataset - alpha = 0.02, beta = 0.1, 3 topics and 200 iterations
+
+Additional work:
+  - I worked on identifying the distribution of topics across the documents
+  - Experimented with different hyperparameter values
+  - Tried using LDA on 20 newsgroups dataset

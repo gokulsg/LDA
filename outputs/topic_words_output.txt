@@ -1,0 +1,61 @@
+Total time taken (in mins) : 222.285198144118
+Topic : 1
+political  bulworth  lebowski  dude  sonny  president  country  ellie  beatty  scorsese  
+
+Topic : 2
+smith  wild  west  melvin  dog  jr  brooks  bowfinger  summer  ghost  
+
+Topic : 3
+smith  jay  bob  comedy  nights  boogie  professor  54  studio  funny  
+
+Topic : 4
+movie  film  one  like  good  even  get  would  time  bad  
+
+Topic : 5
+love  life  romantic  family  mother  father  wedding  husband  woman  story  
+
+Topic : 6
+action  jackie  chan  hong  bond  kong  martial  fight  van  damme  
+
+Topic : 7
+murphy  trek  star  eddie  shrek  cole  series  felix  insurrection  malcolm  
+
+Topic : 8
+war  ryan  hanks  men  soldiers  private  spielberg  battle  horse  tom  
+
+Topic : 9
+tarantino  jackie  carter  gibson  crime  pulp  prison  cop  brown  fiction  
+
+Topic : 10
+scream  horror  killer  school  high  2  slasher  teen  julie  urban  
+
+Topic : 11
+mob  altman  sweetback  helen  mallory  jakob  david  mickey  paltrow  lynch  
+
+Topic : 12
+alien  aliens  earth  planet  space  effects  mars  science  special  crew  
+
+Topic : 13
+ship  godzilla  titanic  effects  arnold  monster  rose  special  wrestling  angels  
+
+Topic : 14
+disney  wars  animation  animated  star  voice  story  mulan  toy  lucas  
+
+Topic : 15
+batman  vampire  robin  spawn  blade  vampires  comic  schumacher  burton  crow  
+
+Topic : 16
+film  one  movie  like  story  character  even  time  would  also  
+
+Topic : 17
+truman  carrey  troopers  flynt  starship  austin  verhoeven  bacon  sex  powers  
+
+Topic : 18
+joe  tarzan  apes  patch  hopkins  ape  simon  jane  park  spielberg  
+
+Topic : 19
+girls  spice  drugs  rock  band  alice  lucy  drug  zero  hedwig  
+
+Topic : 20
+harry  besson  banderas  stuart  paulie  lynch  antonio  matilda  joan  palmetto  
+

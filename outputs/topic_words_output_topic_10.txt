@@ -1,0 +1,31 @@
+Total time taken (in mins) : 118.51303624312082
+Topic : 1
+disney  animated  voice  wars  animation  
+
+Topic : 2
+film  one  life  story  man  
+
+Topic : 3
+nights  mr  murphy  crime  mike  
+
+Topic : 4
+action  smith  west  president  kevin  
+
+Topic : 5
+alien  effects  ship  aliens  special  
+
+Topic : 6
+comedy  school  love  romantic  sex  
+
+Topic : 7
+scream  horror  truman  girls  killer  
+
+Topic : 8
+jackie  tarantino  money  robert  brown  
+
+Topic : 9
+film  movie  one  like  even  
+
+Topic : 10
+action  movie  jackie  bad  chan  
+
