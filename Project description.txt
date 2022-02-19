@@ -4,8 +4,8 @@ Python version - 3.8.5
 
 The structure of this project is:
 1) movies-pp.txt - dataset
-4) Assignment 6 - Latent Dirichlet Allocation.ipynb - implementation of LDA
-5) output - This folder contain the output files
+2) Latent Dirichlet Allocation.ipynb - implementation of LDA
+3) output - This folder contain the output files
             - topic_words_output.txt - 10 most frequent words in topic for alpha = 0.02, beta = 0.1, 20 topics and 500 iterations
             - topic_document_distribution_output.txt - Distribution of topic across documents for alpha = 0.02, beta = 0.1, 20 topics and 500 iterations
 
